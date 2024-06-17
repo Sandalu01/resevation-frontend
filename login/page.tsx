@@ -10,8 +10,8 @@ export default function Login() {
         </div>
       </header>
       <div className="bg-gray-100 min-h-screen flex items-center justify-center">
-
-<div className="bg-white p-8 shadow-lg rounded-lg w-full max-w-md bg-classroom bg-cover bg-center h-screen flex items-center justify-center">
+        
+<div className="bg-white p-8 shadow-lg rounded-lg w-full max-w-md">
   <h2 className="text-3xl font-semibold mb-6 text-center">Login</h2>
   <form className="space-y-6">
     <div>
